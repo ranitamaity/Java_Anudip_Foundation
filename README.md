@@ -186,7 +186,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## ✨ **Acknowledgments**  
 - Java community for robust documentation.  
 - MySQL for seamless database integration.  
-
----
-
-Feel free to modify this `README.md` based on your specific customizations or additional features. Let me know if you’d like any further refinements!
